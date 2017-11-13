@@ -99,3 +99,17 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+###########################
+# MATLAB files and image output #
+###########################
+*.mat
+*.pdf
+*.jpg
+*.jpeg
+
+########################
+# OS X directory stuff #
+########################
+.DS_Store
+
