@@ -1,3 +1,9 @@
+# Don't judge this fork, none of my models worked well!
+#
+#
+
+
+
 # SCML Fall 2017 Competition
 
 ## Can machines learn how the mouse sees?
