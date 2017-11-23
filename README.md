@@ -1,6 +1,6 @@
 # Don't judge this fork, none of my models worked well!
 
-## I tried feeding CNN and LSTM-CNN with images and optical-flow vecotrs and they never worked much better than the simple LSTM model in the example ... it will be cool to see what other people come up with
+## I tried feeding CNN and LSTM-CNN with images and optical-flow, and the models never worked much better than the example ... it will be cool to see what other people come up with
 #
 
 
