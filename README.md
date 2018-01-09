@@ -4,12 +4,17 @@
 # SCML Fall 2017 Competition Recap
 Check the original readme for details of the competition and cool info about the superior colliculus: https://github.com/santacruzml/fall-17-scml-competition
 
-The goal is to model neuron firing in the superior colliculus of a mouse, while said mouse watches a movie of mice wearing funny hats. This is eather super cute or totally mobid... I thought it was cute.
+The goal is to model neuron firing in the superior colliculus (SC) of a mouse, while said mouse watches a movie of mice wearing funny hats. This is either super cute or totally morbid... I thought it was cute.
 
-My orignial entry for this competition received the "Endevour Prize", which was a nice gensture recognizing that I tired the most number of approaches on a somewhat intractable problem. Why is this probelm such a doozy? Let's check out the data:
+My original entry for this competition received the "Endeavor Prize", which was a nice gesture recognizing that I tired the most number of approaches on a somewhat intractable problem. Why is this problem such a doozy? Let's check out the data:
 
 Here's a movie frame grab:
 ![movie frame grab](intro_images/movie_frame.png)
+See! Cute mice in hats! What could go wrong...  well, some of the movie contains no data whatsoever, just a black screen, which would be fine if the SC stopped firing or assumed a constant state, but mouse (just like you) keeps searching for something in its visual field and the neurons keep firing.
+Ok, let's checkout the output (neuron) data. Each movie clip is repeated six times, and if we're going to make sense of the output let's hope there's a pattern.  Here's the output of neuron #1 for six repeated clips:
+![neuron #1 output](intro_images/neuron0.png)
+
+
 
 ## Can machines learn how the mouse sees?
 
