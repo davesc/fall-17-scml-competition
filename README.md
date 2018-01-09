@@ -1,7 +1,15 @@
 
 
 
-# SCML Fall 2017 Competition
+# SCML Fall 2017 Competition Recap
+Check the original readme for details of the competition and cool info about the superior colliculus: https://github.com/santacruzml/fall-17-scml-competition
+
+The goal is to model neuron firing in the superior colliculus of a mouse, while said mouse watches a movie of mice wearing funny hats. This is eather super cute or totally mobid... I thought it was cute.
+
+My orignial entry for this competition received the "Endevour Prize", which was a nice gensture recognizing that I tired the most number of approaches on a somewhat intractable problem. Why is this probelm such a doozy? Let's check out the data:
+
+Here's a movie frame grab:
+![movie frame grab](https://raw.githubusercontent.com/davesc/fall-17-scml-competition/intro_images/movie_frame.png)
 
 ## Can machines learn how the mouse sees?
 
