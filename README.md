@@ -9,7 +9,7 @@ The goal is to model neuron firing in the superior colliculus of a mouse, while 
 My orignial entry for this competition received the "Endevour Prize", which was a nice gensture recognizing that I tired the most number of approaches on a somewhat intractable problem. Why is this probelm such a doozy? Let's check out the data:
 
 Here's a movie frame grab:
-![movie frame grab](https://raw.githubusercontent.com/davesc/fall-17-scml-competition/intro_images/movie_frame.png)
+![movie frame grab](intro_images/movie_frame.png)
 
 ## Can machines learn how the mouse sees?
 
